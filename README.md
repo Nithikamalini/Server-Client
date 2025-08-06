@@ -20,3 +20,4 @@ The use of Java Sockets enables reliable TCP-based communication, while multithr
 
 This architecture is simple yet powerful, suitable for chat systems, multiplayer games, or collaborative tools. By decoupling the client and server responsibilities, the system maintains a clean structure, allowing for easy expansion, such as authentication, chat rooms, or file sharing in future enhancements.
 #OUTPUT
+<img width="1207" height="320" alt="Image" src="https://github.com/user-attachments/assets/bbce0ee4-e98c-4577-ab49-e7cdb1a0199e" />
